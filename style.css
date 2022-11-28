@@ -177,7 +177,6 @@ footer {
     background-color: var(--flat-grey);
     color: white;
     font-size: 20px;
-    display: flex;
     position: absolute;
     bottom: 0;
     height: 60px;
